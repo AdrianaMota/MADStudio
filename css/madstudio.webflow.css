@@ -325,9 +325,27 @@ figcaption {
   opacity: 1;
 }
 
-.column.background-image {
+.column.background-image1 {
   overflow: visible;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg');
+  background-image: url('https://uploads-ssl.webflow.com/6237e94be71a9576f4a04a63/6237eef42e6e687db0f3e020_jacques-bopp-Hh18POSx5qk-unsplash.jpg');
+  background-position: 100% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.column.background-image2 {
+  overflow: visible;
+  background-image: url('https://uploads-ssl.webflow.com/6237e94be71a9576f4a04a63/6237f046fb8c24b72d9064e8_Screen%20Shot%202022-03-20%20at%2011.11.51%20PM.png');
+  background-position: 100% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.column.background-image3 {
+  overflow: visible;
+  background-image: url('https://uploads-ssl.webflow.com/6237e94be71a9576f4a04a63/6237ed6a0397c0bef90f8c38_spacejoy-YI2YkyaREHk-unsplash.jpg');
   background-position: 100% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1521,7 +1539,9 @@ figcaption {
     min-height: auto;
   }
 
-  .column.background-image {
+  .column.background-image1 
+  .column.background-image2 
+  .column.background-image3 {
     width: 100%;
     -webkit-box-flex: 0;
     -webkit-flex: 0 auto;
@@ -1664,7 +1684,9 @@ figcaption {
     padding: 60px 40px;
   }
 
-  .column.background-image {
+  .column.background-image1
+  .column.background-image2 
+  .column.background-image3 {
     width: 100%;
     -webkit-box-flex: 0;
     -webkit-flex: 0 auto;
