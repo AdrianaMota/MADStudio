@@ -1,6 +1,6 @@
 import { HStack, Text, Box, Button, Flex } from "@chakra-ui/react";
 import Logo from "../Logo";
-import NavItem from "./Navitem";
+import NavItem from "./NavItem";
 
 const Navbar = ({ ...props }) => {
 	const { margin } = props;
