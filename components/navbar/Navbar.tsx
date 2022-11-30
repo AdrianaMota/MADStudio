@@ -1,4 +1,4 @@
-import { HStack, Text, Box, Button, Flex } from "@chakra-ui/react";
+import { HStack, Box, Button, Flex } from "@chakra-ui/react";
 import Logo from "../Logo";
 import NavItem from "./NavItem";
 
