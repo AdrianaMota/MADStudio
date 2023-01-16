@@ -117,6 +117,7 @@ export default function Home() {
 									zIndex={"-1"}
 									objectFit="cover"
 									h="100vh"
+									w="100vw"
 								/>
 								<Flex
 									h="100vh"
@@ -159,6 +160,7 @@ export default function Home() {
 									zIndex={"-1"}
 									objectFit="cover"
 									h="100vh"
+									w="100vw"
 								/>
 								<Flex
 									pt={{ base: "6rem", md: 0 }}
