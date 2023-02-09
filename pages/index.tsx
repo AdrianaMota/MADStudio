@@ -2,12 +2,10 @@ import {
 	Stack,
 	Button,
 	Text,
-	VStack,
 	Image,
 	Flex,
 	Heading,
 	Box,
-	HStack,
 } from "@chakra-ui/react";
 import ReactFullpage from "@fullpage/react-fullpage";
 import { EffectCube, Pagination } from "swiper";
