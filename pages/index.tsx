@@ -8,12 +8,9 @@ import {
 	Box,
 } from "@chakra-ui/react";
 import ReactFullpage from "@fullpage/react-fullpage";
-import { EffectCube, Pagination } from "swiper";
-import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/effect-cube";
 import "swiper/css/pagination";
-import Cube from "../components/Cube";
 import Form from "../components/Form";
 import Testimonial from "../components/Testimonial";
 import Navbar from "../components/navbar/Navbar";
