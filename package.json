@@ -17,6 +17,7 @@
     "@fontsource/marcellus": "^4.5.10",
     "@fontsource/montserrat": "^4.5.13",
     "@fullpage/react-fullpage": "^0.1.30",
+    "@next/eslint-plugin-next": "^13.4.4",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.9",
