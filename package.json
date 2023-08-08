@@ -17,10 +17,11 @@
     "@fontsource/marcellus": "^4.5.10",
     "@fontsource/montserrat": "^4.5.13",
     "@fullpage/react-fullpage": "^0.1.30",
-    "@next/eslint-plugin-next": "^13.4.4",
+    "@next/eslint-plugin-next": "^13.4.13",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.9",
+    "eslint-config-next": "^13.4.13",
     "framer-motion": "^6",
     "fullpage.js": "^4.0.14",
     "next": "13.0.3",
@@ -32,6 +33,6 @@
     "typescript": "4.8.4"
   },
   "devDependencies": {
-    "eslint": "^8.42.0"
+    "eslint": "^8.46.0"
   }
 }
